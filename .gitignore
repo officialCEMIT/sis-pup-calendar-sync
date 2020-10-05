@@ -1,0 +1,8 @@
+env/
+env/Lib/
+token.pickle
+credentials.json
+debug.log
+settings.ini
+
+.vscode/
